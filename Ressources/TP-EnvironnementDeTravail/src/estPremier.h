@@ -1,7 +1,7 @@
 #ifndef ESTPREMIER_H
 #define ESTPREMIER_H
 
-#include <stbool.h>
+#include <stdbool.h>
 bool estPremier(int n);
 
 #endif
